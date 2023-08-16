@@ -20,6 +20,7 @@ elif op == '-':
 elif op == 'x':
     print('El resultado de su multiplicación es:', mult)
 elif op == '/' and n2 == 0:
-    print('No es posible dividir entre 0') 
+    print('No es posible dividir entre 0')
+    break 
 elif op == '/':
     print('El resultado de su división es:', div)
