@@ -64,3 +64,5 @@ for i in datos:
         for x in u:
             print(x)
         print('---------')
+        
+duplas
